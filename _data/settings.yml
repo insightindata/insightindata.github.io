@@ -16,7 +16,7 @@ menu_settings:
       url: '/about'
 
 footer_settings:
-  footer_tagline: Data analysis and visualisations
+  footer_tagline: Data analysis and visualizations
 
 hero_settings:
   overlay_opacity: 0.8
