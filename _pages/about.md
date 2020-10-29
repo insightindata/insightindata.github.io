@@ -15,6 +15,6 @@ Recently I did the Tableau Desktop Specialist exam and passed. I will develop my
 
 ## Where to find me
 
-- <a href="https://twitter.com/VisualisedData">Twitter profile</a>
+- <a href="https://twitter.com/ronaldlikesdata">Twitter profile</a>
 - <a href="https://www.linkedin.com/in/rdbodderij">LinkedIn profile</a>
 
