@@ -150,7 +150,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: "G-BE7CSPTRT3"
+  analytics_code: ""
   custom_styles: ""
   header_js: ""
   footer_js: ""
