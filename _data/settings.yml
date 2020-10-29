@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: DataVisualised
+  site_title: Insight in Data
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -32,7 +32,7 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: 'https://twitter.com/VisualisedData'
+  twitter_url: 'https://twitter.com/ronaldlikesdata'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
@@ -150,7 +150,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: "G-9M4T3MXRN9"
+  analytics_code: "G-CJB55GF54Q"
   custom_styles: ""
   header_js: ""
   footer_js: ""
