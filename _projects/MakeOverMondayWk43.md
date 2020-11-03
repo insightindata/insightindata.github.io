@@ -1,8 +1,8 @@
 ---
-title: 'MakeOverMonday week 43'
+title: 'Makeover Monday week 43'
 subtitle: 'Apparel exports to the US plummeting due to Covid-19'
 date: 2020-10-25 00:00:00
-description: Starting with a MakeOverMonday project to improve my Tableau and analytic skills..
+description: Starting with a MakeOverMonday project to improve my Tableau and analytic skills.
 featured_image: '/images/MakeOverMondayWk43.png'
 ---
 
@@ -10,7 +10,7 @@ featured_image: '/images/MakeOverMondayWk43.png'
 
 MakeOverMonday Week 43
 
-After finishing my Tableau Desktop Specialist exam, it is time to practice my skills. [MakeOverMonday](https://www.makeovermonday.co.uk) has weekly datasets and visualizations to improve. Watching the visualizations of other participants in how they interpretet the assigment and data is inspiring and helps with giving ideas how to approach data and how to make your analysis visible. 
+After finishing my Tableau Desktop Specialist exam, it is time to practice my skills. <a href="https://data.world/makeovermonday/2020w44">Makeover Monday</a> has weekly datasets and visualizations to improve. Watching the visualizations of other participants in how they interpretet the assigment and data is inspiring and helps with giving ideas how to approach data and how to make your analysis visible. 
 
 Here you can find the original dataset and visualization: <a href="https://data.world/makeovermonday/2020w43-apparel-exports-to-us">data.world</a>
 and a link to my visualization: <a href="https://public.tableau.com/profile/ronald.bodderij#!/vizhome/MakeOverMondayWk43Year2020/MakeOverMondayWk43">Tableau Public</a>
