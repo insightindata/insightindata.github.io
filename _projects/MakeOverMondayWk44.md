@@ -2,7 +2,7 @@
 title: 'MakeOverMonday week 44'
 subtitle: 'The digital gender gap'
 date: 2020-11-02 00:00:00
-description: Starting with a MakeOverMonday project to improve my Tableau and analytic skills..
+description: My second project with a Makeover Monday dataset.
 featured_image: '/images/MakeOverMondayWk44.png'
 ---
 
