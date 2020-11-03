@@ -1,5 +1,5 @@
 ---
-title: 'MakeOverMonday week 44'
+title: 'Makeover Monday week 44'
 subtitle: 'The digital gender gap'
 date: 2020-11-02 00:00:00
 description: My second project with a Makeover Monday dataset.
