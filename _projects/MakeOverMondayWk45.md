@@ -1,25 +1,23 @@
 ---
-title: 'Makeover Monday week 44'
-subtitle: 'The digital gender gap'
-date: 2020-11-02 00:00:00
+title: 'Makeover Monday week 45'
+subtitle: 'Nintendo Switch sales'
+date: 2020-11-09 00:00:00
 description: My second project with a Makeover Monday dataset.
-featured_image: '/images/MakeOverMondayWk44.png'
+featured_image: '/images/MakeOverMondayWk45.png'
 ---
 
-![](/images/MakeOverMondayWk44.png)
+![](/images/MakeOverMondayWk45.png)
 
-MakeOverMonday Week 44
+MakeOverMonday Week 45
 
-This week there is a new project on <a href="https://data.world/makeovermonday/2020w44">Makeover Monday</a> about the gender gap between men and woman in 100 countries that have access to internet/mobile. Viz5 is a collaboration between Makeover Monday and Operation Fistula to promote gender equality and bring awareness about the subject. 
+New week, new project on <a href="https://www.makeovermonday.co.uk/data/">Makeover Monday</a> about Nintendo Switch sales of hardware and software. The amount of units and software sold between March 2017 and March 2020 are showing exponential growth.
 
-Here you can find the original dataset and visualization: <a href="https://data.world/makeovermonday/2020w44">data.world</a>
-and a link to my visualization: <a href="https://public.tableau.com/profile/ronald.bodderij#!/vizhome/MakeOvermondayWk44Year2020/MakeOverMondayWk44">Tableau Public</a>
+Here you can find the original dataset and visualization: <a href="https://data.world/makeovermonday/2020w45-dedicated-video-game-sales-units">data.world</a>
+and a link to my visualization: <a href="https://public.tableau.com/profile/ronald.bodderij#!/vizhome/MakeOvermondayWk45Year2020/MakeoverMondayWk45">Tableau Public</a>
 
-I tried many different visualizations to show a meaningful insight. The amount of countries made it difficult to create a visualisation that didn't need a scroll bar or a large portion of the screen. 
+Like previous weeks the dataset contained a small amount of data. My first thought was that the amounts in the dataset are ten thousand units. For my visualization it would be clearer to multiply the amounts times ten thousand. The other option would be that I would show on the axis title that it was times ten thousand. 
 
-There were three columns in the dataset:
-- Internet users; % of households
-- Gender gap in internet access; % difference
-- Gender gap in mobile phone access; % difference
+To be able to make a year of year comparison, I needed to use the date in the headers of the dataset. I was unfamaliar with how this can be done in Tableau, so I searched online and discovered that I needed to select the tables with the years in the dataset and pivot the table. This gave a column which could be used as date. 
 
-At first I was trying to relate the percentage of households with internet to the gender gap in internet access and mobile phone access. Eventually I decided it would be more insightful to just focus on the gender gap in internet access and mobile phone access. The visualizations show that in the majority of the 100 countries in the dataset, there are more men with access then women. Pakistan is a real outlier in the visualisation. 
+Eventually in making the dashboard, I used a picture of a Nintendo Switch console, to make the visualization more interesting and appealing. I enjoyed learning new techniques and ways to show data.
+
