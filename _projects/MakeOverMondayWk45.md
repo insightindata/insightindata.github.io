@@ -3,10 +3,10 @@ title: 'Makeover Monday week 45'
 subtitle: 'Nintendo Switch sales'
 date: 2020-11-09 00:00:00
 description: My second project with a Makeover Monday dataset.
-featured_image: '/images/MakeOverMondayWk45.png'
+featured_image: '/images/MakeoverMondayWk45.png'
 ---
 
-![](/images/MakeOverMondayWk45.png)
+![](/images/MakeoverMondayWk45.png)
 
 MakeOverMonday Week 45
 
